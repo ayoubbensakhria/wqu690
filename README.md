@@ -9,4 +9,4 @@ We will use VX futures term-structure historical data (from 1/3/2016 to 8/4/2022
 4.   Compute trading signals (target values -1 (sell), 0(no action), 1(buy)) for our learning process based on a predetermined risk:return ratio
 5.   Use the computed values as features to train our model
 6.   Crossvalidation, Performance report, Backtesting
-7.   Deploy the model on real-time data
+7.   Deploy the model and test with real-time data
